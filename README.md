@@ -1,3 +1,21 @@
+<h2>🌍 Open Source Contribution</h2>
+<div style="border:1px solid #ddd; padding:15px; border-radius:8px; margin:10px 0; background:#f9f9f9;">
+  <h3>Google Fonts</h3>
+  <p>
+    Pull Request: 
+    <a href="https://github.com/google/fonts/pull/10623" target="_blank">
+      docs(montserrat): add Design Applications section (#10623)
+    </a>
+  </p>
+  <p>
+    Proposed adding a “Design Applications” section to Montserrat font description.  
+    <br><em>Status: Closed (but valuable contribution)</em>
+  </p>
+</div>
+
+
+---
+
 [![CI Status](https://github.com/google/fonts/workflows/Continuous%20Test/badge.svg?branch=main)](https://github.com/google/fonts/actions/workflows/ci.yml?query=workflow%3ATest+branch%3Amain)
 
 # Google Fonts Files
